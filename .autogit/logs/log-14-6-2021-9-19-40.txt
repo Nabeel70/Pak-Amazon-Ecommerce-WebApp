@@ -1,0 +1,42 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 14 2021 09:19:40 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* server/package.json
+
+
+Created files:
+* " - copy.gitignore"
+* .env
+* app.js
+* config/db.js
+* config/function.js
+* config/keys.js
+* controller/auth.js
+* controller/braintree.js
+* controller/categories.js
+* controller/customize.js
+* controller/orders.js
+* controller/products.js
+* controller/users.js
+* middleware/auth.js
+* models/categories.js
+* models/customize.js
+* models/orders.js
+* models/products.js
+* models/users.js
+* package.json
+* routes/auth.js
+* routes/braintree.js
+* routes/categories.js
+* routes/customize.js
+* routes/orders.js
+* routes/products.js
+* routes/users.js
+
+
+Deleted files:
+
+
+Renamed files:

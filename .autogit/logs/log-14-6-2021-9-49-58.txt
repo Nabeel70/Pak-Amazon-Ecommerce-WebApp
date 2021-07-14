@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 14 2021 09:49:58 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* controller/categories.js
+* controller/customize.js
+
+
+Created files:
+* .autogit/logs/log-14-6-2021-9-19-40.txt
+
+
+Deleted files:
+
+
+Renamed files:
