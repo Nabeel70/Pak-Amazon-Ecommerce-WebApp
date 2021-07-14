@@ -1,5 +1,5 @@
 {
-  "name": "Muhammad Nabeel Amin",
+  "name": "Hayroo",
   "version": "1.0.0",
   "description": "An E-commerce website.",
   "main": "app.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce"
   },
-  "author": "Muhammad Nabeel AMin",
+  "author": "Hasan | https://hasan-py.github.io",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce/issues"
